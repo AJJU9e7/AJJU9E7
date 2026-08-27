@@ -1,14 +1,15 @@
 # AJJU9E7
 
-**Gaming Creator • Content Creator**
+**Gamer • Gaming Creator • Content Creator**
 
-Gameplay, guides, livestreams, progression systems, creator tools, and long-term gaming projects.
+AJJU9E7 Gaming — Variety Gaming, gameplay, livestreams, guides, walkthroughs, progression, and long-term gaming projects.
+The AJJU9E7 Experience brings together different games, genres, gaming experiences, and long-term gaming projects through a relaxed, immersive approach to gaming.
 
 ---
 
 ## Connect
 
-* 🌐 Website: https://sites.google.com/view/ajju9e7/home
+* 🌐 Official Website: https://sites.google.com/view/ajju9e7/home
 * 🎮 YouTube: https://www.youtube.com/@AJJU9e7
 * 📺 Twitch: https://www.twitch.tv/ajju9e7
 * ✖️ X / Twitter: https://x.com/ajju9e7
@@ -18,19 +19,19 @@ Gameplay, guides, livestreams, progression systems, creator tools, and long-term
 
 ## Featured Content
 
-### Warframe
+### Gaming
 
-* Warframe Guides Hub
-* Warframe Builds Hub
-* Warframe Progression Resources
-* Warframe Daily Tribute Collection
-* Warframe Livestream & VOD Archive
+* Variety Gaming
+* Gameplay & VODs
+* Livestreams
+* Gaming Guides & Walkthroughs
+* Gaming Progression Resources
 
-### Fighting Games
+### Gaming Projects
 
-* Street Fighter 6 Journey
-* Character Learning & Improvement
-* Long-Term Competitive Progression
+* Game-Specific Guides & Resources
+* Gaming Series & Playlists
+* Long-Term Gaming Projects
 
 ### Creator Resources
 
@@ -43,17 +44,17 @@ Gameplay, guides, livestreams, progression systems, creator tools, and long-term
 
 ## About
 
-AJJU9E7 is a gaming creator focused on gameplay, guides, progression systems, livestreams, creator tools, and long-term gaming projects.
-
-Current content focuses on Warframe, Street Fighter 6, creator-focused resources, livestreams, tutorials, and long-form gaming progression.
-
-The AJJU9E7 ecosystem connects YouTube content, livestreams, articles, guides, resources, and creator tools through a central website, Substack publication, and supporting platforms.
+AJJU9E7 is a gamer, gaming creator, and content creator behind AJJU9E7 Gaming, sharing variety gaming, gameplay, guides, livestreams, progression resources, creator tools, and long-term gaming projects.
+AJJU9E7 Gaming explores different games and genres through gameplay, discovery, experimentation, challenges, progression, and the AJJU9E7 Experience.
+The AJJU9E7 creator ecosystem connects YouTube, livestreams, articles, guides, resources, and creator projects through a central website, supporting platforms, and long-term gaming content.
 
 ---
 
 ## Current Focus
 
-* Warframe
-* Street Fighter 6
+* AJJU9E7 Gaming
+* Variety Gaming
+* Gaming Projects
 * Creator Tools
+* Creator Resources
 * Long-Term Gaming Content
